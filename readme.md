@@ -1,0 +1,1 @@
+challange for myself to write code in golang for at least 100 days.
